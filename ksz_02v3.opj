@@ -163,10 +163,14 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
+      (Path "Design Resources" "d:\project\circuit\orcad\ksz\02v3\ksz_02v3.dsn")
+      (Path "Design Resources" "d:\project\circuit\orcad\ksz\02v3\ksz_02v3.dsn"
+         "TOP LEVEL")
       (Path "Outputs")
       (Select "Design Resources"
          "d:\project\circuit\orcad\ksz\02v3\ksz_02v3.dsn"))
-    (HierarchyView)
+    (HierarchyView
+      (Path "TOP LEVEL"))
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
@@ -176,7 +180,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -4 -24 88 1452 88 573")
-        (Scroll "530 20")
+        (Scroll "54 521")
         (Zoom "138")
         (Occurrence "/"))
       (Path "D:\PROJECT\CIRCUIT\ORCAD\KSZ\02V3\KSZ_02V3.DSN")
