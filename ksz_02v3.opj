@@ -180,7 +180,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -4 -24 88 1452 88 573")
-        (Scroll "54 521")
+        (Scroll "0 0")
         (Zoom "138")
         (Occurrence "/"))
       (Path "D:\PROJECT\CIRCUIT\ORCAD\KSZ\02V3\KSZ_02V3.DSN")
