@@ -170,7 +170,8 @@
       (Select "Design Resources"
          "d:\project\circuit\orcad\ksz\02v3\ksz_02v3.dsn"))
     (HierarchyView
-      (Path "TOP LEVEL"))
+      (Path "TOP LEVEL")
+      (Select "TOP LEVEL" "VD17 (300B)"))
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
@@ -180,7 +181,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -4 -24 88 1452 88 573")
-        (Scroll "0 0")
+        (Scroll "66 155")
         (Zoom "138")
         (Occurrence "/"))
       (Path "D:\PROJECT\CIRCUIT\ORCAD\KSZ\02V3\KSZ_02V3.DSN")
