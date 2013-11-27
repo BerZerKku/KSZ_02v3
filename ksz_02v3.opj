@@ -86,7 +86,7 @@
     (Netlist_TAB "0"))
   (Folder "Outputs"
     (Sort User)
-    (File "KSZ_02V3.PRP"
+    (File ".\ksz_02v3.prp"
       (Type "Report")
       (DisplayName "KSZ_02V3.PRP"))
     (File ".\ksz_02v3.drc"
@@ -163,25 +163,21 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" "d:\project\circuit\orcad\ksz\02v3\ksz_02v3.dsn")
-      (Path "Design Resources" "d:\project\circuit\orcad\ksz\02v3\ksz_02v3.dsn"
-         "TOP LEVEL")
+      (Path "Design Resources" ".\ksz_02v3.dsn")
+      (Path "Design Resources" ".\ksz_02v3.dsn" "TOP LEVEL")
       (Path "Outputs")
-      (Select "Design Resources"
-         "d:\project\circuit\orcad\ksz\02v3\ksz_02v3.dsn"))
-    (HierarchyView
-      (Path "TOP LEVEL")
-      (Select "TOP LEVEL" "VD17 (300B)"))
+      (Select "Design Resources"))
+    (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 901"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 880"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -4 -24 88 1452 88 573")
-        (Scroll "66 155")
+        (Placement "44 2 3 -1 -1 -4 -29 88 1452 88 573")
+        (Scroll "756 146")
         (Zoom "138")
         (Occurrence "/"))
       (Path "D:\PROJECT\CIRCUIT\ORCAD\KSZ\02V3\KSZ_02V3.DSN")
