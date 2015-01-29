@@ -163,25 +163,23 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" "d:\project\circuit\orcad\ksz\02v3\ksz_02v3.dsn")
-      (Path "Design Resources" "d:\project\circuit\orcad\ksz\02v3\ksz_02v3.dsn"
-         "TOP LEVEL")
-      (Path "Outputs")
-      (Select "Design Resources"))
+      (Path "Design Resources" ".\ksz_02v3.dsn")
+      (Path "Design Resources" ".\ksz_02v3.dsn" "TOP LEVEL")
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 880"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 150 0 901"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -4 -29 88 1452 88 573")
-        (Scroll "436 146")
-        (Zoom "138")
+        (Placement "44 2 3 -1 -1 -4 -24 66 1463 69 561")
+        (Scroll "-201 191")
+        (Zoom "77")
         (Occurrence "/"))
-      (Path "D:\PROJECT\CIRCUIT\ORCAD\KSZ\02V3\KSZ_02V3.DSN")
+      (Path "D:\PROJECT\CIRCUIT\KSZ\02V3\KSZ_02V3.DSN")
       (Schematic "TOP LEVEL")
       (Page "MAIN_A3")))
   (MPSSessionName "Shcheblykin")
